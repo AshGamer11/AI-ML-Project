@@ -28,3 +28,7 @@ desktop.ini
 # Logs
 *.log
 
+# Private folders (keep local only)
+presentation/
+team/
+
