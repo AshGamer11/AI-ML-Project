@@ -1,0 +1,11 @@
+{
+    "mean_meteorological_attribution_percent": 28.9,
+    "mean_source_emissions_attribution_percent": 71.1,
+    "top_drivers": [
+        "NO2_lag_24h",
+        "PM2.5_roll_min_24h",
+        "hour_sin",
+        "Wind_Speed",
+        "month_sin"
+    ]
+}

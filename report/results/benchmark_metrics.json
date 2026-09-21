@@ -1,0 +1,30 @@
+{
+    "Ridge_Baseline": {
+        "r2": 0.9874,
+        "rmse": 10.4,
+        "mae": 7.16,
+        "index_of_agreement_d": 0.9968,
+        "nmb_percent": -0.4
+    },
+    "XGBoost": {
+        "r2": 0.9962,
+        "rmse": 5.73,
+        "mae": 3.42,
+        "index_of_agreement_d": 0.999,
+        "nmb_percent": -0.05
+    },
+    "Vanilla_LSTM": {
+        "r2": 0.8472,
+        "rmse": 36.2,
+        "mae": 24.41,
+        "index_of_agreement_d": 0.9547,
+        "nmb_percent": -4.66
+    },
+    "CNN_BiLSTM_Hybrid": {
+        "r2": 0.8447,
+        "rmse": 36.5,
+        "mae": 25.73,
+        "index_of_agreement_d": 0.953,
+        "nmb_percent": -11.8
+    }
+}
